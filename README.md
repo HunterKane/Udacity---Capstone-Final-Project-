@@ -4,7 +4,7 @@ Udacity 2020
 
 Project Summary
 
-This project is desinged to manipulate data from US immigration to discover popular cities for immigration. Second, demographic information to analyze the gender of the immigrants. Along with the visa types and basic details of age. Lastly, we extracted data for the average temperature per city.
+This project is designed to manipulate data from US immigration to discover popular cities for immigration. Second, demographic information to analyze the gender of the immigrants. Along with the visa types and basic details of age. Lastly, we extracted data for the average temperature per city.
 
 3 Dataset breakdown:
 
